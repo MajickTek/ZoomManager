@@ -4,6 +4,8 @@
 
 This app allows you to put all of your recurring zoom meetings in one place. It is minimalistic and light, only requiring a Java Runtime Environment.
 
+This app is intended for use by students.
+
 Interface: A graphical list that is modified with keybinds
 
 Features:
