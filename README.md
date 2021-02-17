@@ -26,4 +26,4 @@ Clean up code/Modularize code. Currently there are repeated sections that could 
 
 Fix error on first opening the app when load file doesn't exist
 
-![First Screenshot of App](https://raw.github.com/MajickTek/ZoomManager/master/)
+![First Screenshot of App](https://github.com/MajickTek/ZoomManager/raw/master/screenshots/first.png)
