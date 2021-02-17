@@ -23,3 +23,7 @@ Currently, The app is hard-coded to allow for 16 meetings, which is quite a lot.
 Open meeting automatically when day/Time is reached. This is complicated because of time zones etc. My idea is to do this based on the host computer's clock. The application would either need to stay open or have some background service installed and ran at first launch.
 
 Clean up code/Modularize code. Currently there are repeated sections that could be fixed.
+
+Fix error on first opening the app when load file doesn't exist
+
+![First Screenshot of App](https://raw.github.com/MajickTek/ZoomManager/master/)
