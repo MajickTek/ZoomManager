@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="ZoomManager:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ZoomManager_jar</output-path>
+    <root id="archive" name="ZoomManager.jar">
+      <element id="module-output" name="ZoomManager" />
+    </root>
+  </artifact>
+</component>
