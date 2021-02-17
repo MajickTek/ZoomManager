@@ -1,5 +1,7 @@
 # Zoom Manager
 
+![First Screenshot of App](https://github.com/MajickTek/ZoomManager/raw/master/screenshots/first.png)
+
 This app allows you to put all of your recurring zoom meetings in one place. It is minimalistic and light, only requiring a Java Runtime Environment.
 
 Interface: A graphical list that is modified with keybinds
@@ -25,5 +27,3 @@ Open meeting automatically when day/Time is reached. This is complicated because
 Clean up code/Modularize code. Currently there are repeated sections that could be fixed.
 
 Fix error on first opening the app when load file doesn't exist
-
-![First Screenshot of App](https://github.com/MajickTek/ZoomManager/raw/master/screenshots/first.png)
